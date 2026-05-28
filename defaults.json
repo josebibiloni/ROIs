@@ -1,19 +1,19 @@
 {
   "eccosur": {
-    "priceStarter": 29,
-    "avgStarter": 10,
+    "priceStarter": 39,
+    "avgStarter": 15,
     "pricePro": 59,
-    "avgPro": 28,
+    "avgPro": 30,
     "priceClinica": 99,
-    "avgClinica": 65,
-    "priceRed": 159,
-    "avgRed": 90
+    "avgClinica": 70,
+    "priceRed": 149,
+    "avgRed": 120
   },
   "cardiologo": {
     "precioPaciente": 20
   },
   "ppp": {
-    "AR": 40,
+    "AR": 84,
     "BR": 75,
     "MX": 70,
     "CO": 45,
