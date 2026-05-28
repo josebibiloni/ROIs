@@ -1,12 +1,12 @@
 {
   "eccosur": {
-    "priceStarter": 39,
+    "priceStarter": 59,
     "avgStarter": 15,
-    "pricePro": 59,
+    "pricePro": 89,
     "avgPro": 30,
-    "priceClinica": 99,
+    "priceClinica": 129,
     "avgClinica": 70,
-    "priceRed": 149,
+    "priceRed": 199,
     "avgRed": 120
   },
   "cardiologo": {
